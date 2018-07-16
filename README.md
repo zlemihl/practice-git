@@ -1,30 +1,27 @@
-# This is a large heading
+# Zlemihl
 
-## This is a smaller heading
+### geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live here, there, and everywhere, *when* and *why*.
 
-- This is
-- an unordered
-- list
+### reading
 
-1. This is
-2. an ordered
-3. list
+favorite books... none such but here is a shortlist, anyway
 
-Here is `some code` in the middle of a sentence.
+- *Finnegans Wake* by JJ
+- *Tristram Shandy* by LS
+- *Ethics* by BS
+- *Sein und Zeit* by MH
+- *Arcades Project* by WB
 
-```
-This is
-a block
-of code
-```
+### food
 
-Here is how you make [a link](https://www.wikipedia.org/).
+see:
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. **reading**
+2. **geography**
+3. **contact**
 
-nano README.md
+### contact
+
+The best way to get in touch with me is by [shouting in the street](https://www.youtube.com/watch?v=AmfOoDq6X_Y)
